@@ -57,7 +57,6 @@ A continuación se muestra una vista del contenido cargado desde el panel de Wor
 
 ![Admin Screenshot](/cap1.png)
 ![Admin Screenshot](/cap2.png)
-![Admin Screenshot](/cap3.png)
 ![Admin Screenshot](/cap4.png)
 
 ---
@@ -68,10 +67,11 @@ A continuación se muestra una vista del contenido cargado desde el panel de Wor
    `http://localhost/wp-challenge/wp-admin`
 
 2. **Modificar el banner:**  
-   - Ir a “Páginas” > Editar la página `Inicio`
+   - Ir a “Páginas” > Agregar/editar la página `Inicio`
    - Cambiar el título, contenido o imagen destacada
 
 3. **Modificar los servicios:**  
+   - Crear la categoria `servicios`
    - Ir a “Entradas” > Agregar/editar publicaciones
    - Asegurarse de asignar la categoría `servicios`
    - Agregar imagen destacada si se desea mostrar
